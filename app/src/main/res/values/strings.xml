@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Day18 ViewBinding</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="enter_your_mail">Enter your Mail</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="agree_to_all_terms_and_conditions">Agree to all T and Cs</string>
+    <string name="agree_to_all_t_amp_cs"><![CDATA[Agree to all T&Cs]]></string>
+</resources>
